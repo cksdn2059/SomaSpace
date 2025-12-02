@@ -16,5 +16,5 @@ This project is part of my thesis work in Human Experience Design Interaction. I
 # You can download the Touch Designer file below<br>
 https://csulb-my.sharepoint.com/:f:/g/personal/joshua_kim12_student_csulb_edu/Eru1FzvbSetPkfgUuMmdKEEBaSJsTG-Si83VvLXaCdu5lQ?e=0Xob7V
 <br><br>
-Joshua Kim
+Joshua Kim<br>
 Graduate Project
